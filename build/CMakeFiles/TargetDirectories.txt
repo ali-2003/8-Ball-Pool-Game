@@ -1,0 +1,7 @@
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/8-BALL-POOL.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/edit_cache.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/rebuild_cache.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/list_install_components.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/install.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/install/local.dir
+/Users/aliimran/Downloads/Oop-Project-main/build/CMakeFiles/install/strip.dir
